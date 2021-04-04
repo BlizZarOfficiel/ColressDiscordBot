@@ -2,7 +2,7 @@
 
 WELCOME IN COLRESS DISCORD BOT PAGE !
 
-guild.json, commands.js, websocket.js, emote.js,, handler.js, Guild.js and message.js are private
+A Lot of File are Private.
 
 - Twitter : https://twitter.com/ColressDiscord
 - Website : https://colress-discord-bot.fr

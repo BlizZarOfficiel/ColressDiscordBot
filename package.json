@@ -1,0 +1,29 @@
+{
+  "name": "colress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.2.7",
+    "get-image-colors": "^2.0.1",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "shelljs": "^0.8.4",
+    "soundcloud-downloader": "^0.2.2",
+    "youtube-playlist": "^1.0.4",
+    "youtube-search": "^1.1.6",
+    "ytdl-core": "^4.5.0"
+  }
+}

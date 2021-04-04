@@ -1,6 +1,6 @@
 # ColressDiscordBot
 
-WELCOME IN COLRESS DISCORD BOT PAGE !
+WELCOME IN COLRESS DISCORD BOT GITHUB PAGE !
 
 A Lot of File are Private.
 
